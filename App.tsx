@@ -26,7 +26,7 @@ export default function App() {
   ];
 
 
-//Hassan Mir this is test
+//Hassan Mir 
   return (
     <View style={styles.container}>
       <Text style={styles.input}>{input}</Text>
